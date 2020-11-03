@@ -1,1 +1,3 @@
-homework0
+# Homework 0
+
+Applaudo Studios Trainee
